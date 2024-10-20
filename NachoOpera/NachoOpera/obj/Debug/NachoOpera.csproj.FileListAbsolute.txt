@@ -1,0 +1,6 @@
+C:\Users\chema\source\repos\NachoOpera\bin\Debug\NachoOpera.dll
+C:\Users\chema\source\repos\NachoOpera\bin\Debug\NachoOpera.pdb
+C:\Users\chema\source\repos\NachoOpera\obj\Debug\NachoOpera.csproj.AssemblyReference.cache
+C:\Users\chema\source\repos\NachoOpera\obj\Debug\NachoOpera.csproj.CoreCompileInputs.cache
+C:\Users\chema\source\repos\NachoOpera\obj\Debug\NachoOpera.dll
+C:\Users\chema\source\repos\NachoOpera\obj\Debug\NachoOpera.pdb
